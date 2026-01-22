@@ -8,11 +8,11 @@ The project is divided into specific hardware modules, documented in the followi
 
 | File Name | Description |
 | :--- | :--- |
-| **Documentatie_proiect.pdf** | The comprehensive project report containing the theoretical design, design choices, block diagrams, and operational description of the system[cite: 3]. |
-| **SCH_PM_proiect_5-Unitatea centrala 2...** | Schematics for the **Central Processing Unit (CPU)** module, including the processor, clock generation, and bus control logic[cite: 2]. |
-| **SCH_PM_proiect_2-Conectarea memoriei...** | Schematics for the **Memory Subsystem**, detailing the addressing logic and connection of RAM and ROM/EPROM chips[cite: 4]. |
-| **SCH_PM_proiect_3-Interfata seriala...** | Schematics for **I/O Interfaces**, specifically designing the Serial (USART) and Parallel (PPI) communication ports[cite: 5]. |
-| **SCH_PM_proiect_4-Periferice...** | Schematics for additional **System Peripherals**, such as interrupt controllers, timers, or DMA controllers[cite: 1]. |
+| **Documentatie_proiect.pdf** | The comprehensive project report containing the theoretical design, design choices, block diagrams, and operational description of the system. |
+| **SCH_PM_proiect_5-Unitatea centrala 2...** | Schematics for the **Central Processing Unit (CPU)** module, including the processor, clock generation, and bus control logic. |
+| **SCH_PM_proiect_2-Conectarea memoriei...** | Schematics for the **Memory Subsystem**, detailing the addressing logic and connection of RAM and ROM/EPROM chips. |
+| **SCH_PM_proiect_3-Interfata seriala...** | Schematics for **I/O Interfaces**, specifically designing the Serial (USART) and Parallel (PPI) communication ports. |
+| **SCH_PM_proiect_4-Periferice...** | Schematics for additional **System Peripherals**, such as interrupt controllers, timers, or DMA controllers. |
 
 ## System Architecture
 
