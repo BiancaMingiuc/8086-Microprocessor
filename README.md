@@ -32,8 +32,8 @@ The hardware design is structured into four main subsystems:
 * **Serial Interface:** Implemented using a Universal Synchronous/Asynchronous Receiver/Transmitter (USART), typically the **Intel 8251**, for RS-232 communication.
 
 ### 4. Peripherals & Interrupts
-* **Interrupts:** Managed by a Programmable Interrupt Controller (PIC), likely the **Intel 8259**, to handle external hardware requests.
-* **Timing:** Likely includes a Programmable Interval Timer (PIT), such as the **Intel 8253/8254**, for generating baud rates and system ticks.
+* **Interrupts:** Managed by a Programmable Interrupt Controller (PIC), to handle external hardware requests.
+* **Timing:** Includes a Programmable Interval Timer (PIT), for generating baud rates and system ticks.
 
 ## Key Components
 
