@@ -1,4 +1,4 @@
-# Microprocessor System Design (8086/8088 Architecture)
+# Microprocessor System Design (8086 Architecture)
 
 This project details the hardware design and schematic implementation of a modular microcomputer system based on the Intel x86 architecture. It includes detailed circuit diagrams for the central processing unit, memory interfacing, communication ports, and peripheral management.
 
@@ -34,13 +34,4 @@ The hardware design is structured into four main subsystems:
 ### 4. Peripherals & Interrupts
 * **Interrupts:** Managed by a Programmable Interrupt Controller (PIC), to handle external hardware requests.
 * **Timing:** Includes a Programmable Interval Timer (PIT), for generating baud rates and system ticks.
-
-## Key Components
-
-* **Processor:** Intel 8086 / 8088
-* **Clock Generator:** Intel 8284
-* **Bus Controller:** Intel 8288
-* **Parallel I/O:** Intel 8255
-* **Serial I/O:** Intel 8251
-* **Interrupt Controller:** Intel 8259
 
